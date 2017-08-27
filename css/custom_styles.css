@@ -10,6 +10,10 @@
   text-align: center;
 }
 
+.setnavcolor {
+  background-color: #d1d2d3;
+}
+
 .textheading {
   font-family: 'Lato', sans-serif;
   max-width: 100%;
